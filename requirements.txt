@@ -1,0 +1,3 @@
+### user needs these packages installed before successful program completion can occur ###
+matplotlib >= 3.0.3
+numpy >= 1.15.4
